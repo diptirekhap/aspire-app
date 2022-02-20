@@ -5,7 +5,7 @@ validate cross browser **"https://aspireapp.odoo.com"** : which browser is suppo
 
 validate log in : log in  by validuser id  by user Account: "user@aspireapp.com" Password: "@sp1r3app" .it will work .
 
-once log in to portal validate overview page : after log in it should show 3 buttons "Discuss" ,"Inventory" ,"Manufacturing"
+once log in to portal validate overview page : after log in it should show overview page with 3 buttons "Discuss" ,"Inventory" ,"Manufacturing"
 
 After log in portal navigate to Inventory : while click on Invetory page -it should redirect to onventory page .https://aspireapp.odoo.com/web#cids=1&action=232&model=stock.picking.type&view_type=kanban&menu_id=108
 
