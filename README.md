@@ -3,7 +3,7 @@ It will help to keep track of all the loan information and help to faster procee
 
 validate cross browser **"https://aspireapp.odoo.com"** : which browser is supported & which browser is not supported .
 
-validate log in : validate log in by validuser id  by user Account: "user@aspireapp.com" Password: "@sp1r3app"
+validate log in : log in  by validuser id  by user Account: "user@aspireapp.com" Password: "@sp1r3app" .it will work .
 
 once log in to portal validate overview page : after log in it should show 3 buttons "Discuss" ,"Inventory" ,"Manufacturing"
 
