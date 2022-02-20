@@ -20,3 +20,6 @@ Navigate to `Manufacturing` feature, then create a new Manufacturing Order item 
 Update the status of new Orders to “Done” successfully :once create order with same quantity https://aspireapp.odoo.com/web#menu_id=150&cids=1&action=285&model=mrp.production&view_type=list
 
 Validate the new Manufacturing Order is created with corrected information:Manufacturing Orders/WH/MO/01418 :it can visible with detailed info & status under manufacturing orders https://aspireapp.odoo.com/web#menu_id=150&cids=1&action=285&model=mrp.production&view_type=list
+
+If any error will show while doing steps : it should be tracked by log file or user monitoring in azure where admin users can track 
+
